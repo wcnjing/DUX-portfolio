@@ -1,0 +1,16 @@
+.introtext {
+    text-shadow: 2px 2px 8px #000;
+}
+.projcontainer {
+    background-color: #000;
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
+body {
+    /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  background-color:white;
+}
